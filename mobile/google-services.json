@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1049739761350",
+    "firebase_url": "https://sardart-6b045.firebaseio.com",
+    "project_id": "sardart-6b045",
+    "storage_bucket": "sardart-6b045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049739761350:android:1a453c375f590a24",
+        "android_client_info": {
+          "package_name": "com.shopspreeng.sardart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049739761350-q3otmqegng5d09kh00cojuktsn63trdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopspreeng.sardart",
+            "certificate_hash": "d0a0a9bab72a5c9338aaae2122609e5ff0df7686"
+          }
+        },
+        {
+          "client_id": "1049739761350-pe11uebbl2s7umjjlf6sm3op1cv7vkn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYYZW0eVbcoNZP54yAjd98oICFM2Jz7q8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049739761350-pe11uebbl2s7umjjlf6sm3op1cv7vkn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

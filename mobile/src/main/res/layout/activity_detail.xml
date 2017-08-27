@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.shopspreeng.sardart.DetailActivity"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/disaster"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"/>
+
+    <ImageView
+        android:id="@+id/emergency_image"
+        android:layout_width="match_parent"
+        android:layout_height="100dp" />
+
+    <TextView
+        android:id="@+id/human_casualty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/add_media"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_video"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/location_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Location"/>
+
+    <EditText
+        android:id="@+id/additional_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <VideoView
+        android:id="@+id/emergency_video"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
